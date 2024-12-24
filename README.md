@@ -58,14 +58,14 @@ I have experience in full-stack development, and I enjoy working with modern web
 </span>
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/giacomo-cattani-b23bb6242)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/giacomo-cattani-b23bb6242)
 
 ## 💡 Fun Facts
 - 🎮 Gamer
 - 📚 Constant Learner
 - ☕ Coffee Enthusiast
 - [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)]() Enjoyer
-- [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)](https://myanimelist.net/profile/Clover69)
+- [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)](http://myanimelist.net/profile/Clover69)
 
 ---
 *Crafted with ❤️ by Giacomo Cattani*
