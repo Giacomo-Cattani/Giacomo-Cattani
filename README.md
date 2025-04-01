@@ -22,7 +22,7 @@ I have experience in full-stack development, and I enjoy working with modern web
   <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,laravel,vite" />
 </span>
 
-### ⛈️ Databases
+### 🗃️ Databases
 <span align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </span>
