@@ -34,7 +34,7 @@ I have experience in full-stack development, and I enjoy working with modern web
 
 ### 💻 Tools
 <span align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,appwrite" />
 </span>
 
 ### 🖥️ Operating Systems
@@ -54,7 +54,7 @@ I have experience in full-stack development, and I enjoy working with modern web
 
 ### 🧑‍💻 Version Control
 <span align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket" />
 </span>
 
 ## 🌐 Connect With Me
