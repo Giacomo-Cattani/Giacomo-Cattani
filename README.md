@@ -29,7 +29,7 @@ I have experience in full-stack development, and I enjoy working with modern web
 
 ### 🎨 Design
 <span align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,tailwind" />
 </span>
 
 ### 💻 Tools
