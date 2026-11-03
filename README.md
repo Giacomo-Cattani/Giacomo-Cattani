@@ -8,6 +8,8 @@ A passionate developer with a love for innovation and cutting-edge technologies.
 
 I have experience in full-stack development, and I enjoy working with modern web technologies. My goal is to continuously improve my skills and contribute to exciting projects.
 
+> ℹ️ **Note on Activity:** My GitHub contribution graph might look a bit quiet, but that's because I spend most of my daily coding hours pushing code on enterprise GitLab repositories! 🦊
+> 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ## ⚙️ Tech Stack
@@ -64,7 +66,7 @@ I have experience in full-stack development, and I enjoy working with modern web
 - 🎮 Gamer
 - 📚 Constant Learner
 - ☕ Coffee Enthusiast
-- [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)]() Enjoyer
+- [![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?logo=anthropic&logoColor=fff)]() Enjoyer
 - [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)](http://myanimelist.net/profile/Clover69)
 
 ---
